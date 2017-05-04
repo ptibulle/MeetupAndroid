@@ -1,0 +1,34 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "fr.ptibulle.cordova.meetupservice2": {
+        "source": {
+            "type": "local",
+            "path": "../plugins/meetupservice2-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "fr.ptibulle.cordova.meetupservice1": {
+        "source": {
+            "type": "local",
+            "path": "../plugins/meetupservice1-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "fr.ptibulle.cordova.meetupservice3": {
+        "source": {
+            "type": "local",
+            "path": "../plugins/meetupservice3-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

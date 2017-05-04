@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "fr.ptibulle.cordova.meetupservice2": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "fr.ptibulle.cordova.meetupservice1": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "fr.ptibulle.cordova.meetupservice3": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {}
+}
