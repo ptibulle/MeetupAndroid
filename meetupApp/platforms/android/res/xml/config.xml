@@ -7,9 +7,6 @@
     <feature name="MeetupService2">
         <param name="android-package" value="fr.ptibulle.cordova.MeetupService2" />
     </feature>
-    <feature name="MeetupService1">
-        <param name="android-package" value="fr.ptibulle.cordova.MeetupService1" />
-    </feature>
     <feature name="MeetupService3">
         <param name="android-package" value="fr.ptibulle.cordova.MeetupService3" />
     </feature>
@@ -30,4 +27,7 @@
     <allow-intent href="geo:*" />
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
+    <feature name="MeetupService1">
+        <param name="android-package" value="fr.ptibulle.cordova.MeetupService1" />
+    </feature>
 </widget>

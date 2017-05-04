@@ -13,11 +13,12 @@
     <engine name="cordova" version=">=3.1.0" /><!-- Needs cordova/urlutil -->
   </engines>
 
+  <js-module name="meetupservice1" src="www/meetupservice1.js">
+    <clobbers target="meetupservice1" />
+  </js-module>
+  
 <!-- android -->
   <platform name="android">
-      <js-module name="meetupservice1" src="www/meetupservice1.js">
-        <clobbers target="meetupservice1" />
-      </js-module>
       <config-file parent="/*" target="res/xml/config.xml">
         <feature name="MeetupService1">
           <param  name="android-package" value="fr.ptibulle.cordova.MeetupService1"/>

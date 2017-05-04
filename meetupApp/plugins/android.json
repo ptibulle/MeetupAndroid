@@ -13,10 +13,10 @@
         "fr.ptibulle.cordova.meetupservice2": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
-        "fr.ptibulle.cordova.meetupservice1": {
+        "fr.ptibulle.cordova.meetupservice3": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         },
-        "fr.ptibulle.cordova.meetupservice3": {
+        "fr.ptibulle.cordova.meetupservice1": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
     },
