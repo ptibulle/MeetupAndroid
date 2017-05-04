@@ -4,18 +4,26 @@ Code des démos du Meetup Android du 3 mai 2017
 
 Les 3 services sont à ouvrir dans AndroidStudio.
 
-Les 3 plugins peuvent être ajoutés simplement à une app cordova de base :
+Les 3 plugins peuvent être ajoutés simplement à une app cordova de base !
 
+Installation de cordova :
 ```
 $ npm install -g cordova
+```
+Création de l'app avec l'ajout de la gestion d'android :
+```
 $ cordova create MyApp
 $ cd MyApp
 $ cordova platform add android
-
+```
+Ajout des plugins :
+```
 $ cordova plugin add https://github.com/ptibulle/MeetupAndroid.git#:/plugins/meetupservice1-plugin
 $ cordova plugin add https://github.com/ptibulle/MeetupAndroid.git#:/plugins/meetupservice2-plugin
 $ cordova plugin add https://github.com/ptibulle/MeetupAndroid.git#:/plugins/meetupservice3-plugin
-
+```
+Et en connectant son device android (en mode développeur) c'est parti :
+```
 $ cordova run android
 ```
 
