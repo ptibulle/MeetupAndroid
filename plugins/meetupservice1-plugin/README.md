@@ -1,1 +1,1 @@
-Nom du dépôt : TNK_Plugin_CapteurPresence<br/><br/>Métier : RLP<br/><br/>Créateur : <br/><br/>Direction : POBM<br/><br/>Langage : Java/JavaScript<br/><br/>Description : MessageManager<br/><br/>Phase projet : dev
+Plugin de lancement du service et gestion du retour par broadcast receiver
